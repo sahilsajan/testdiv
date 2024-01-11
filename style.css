@@ -25,3 +25,18 @@ h1{
     width: 200px;
     margin-left: 500px
 }
+.first{
+    height: 200px;
+    width:  200px;
+    background-color: red;
+}
+.second{
+    height: 200px;
+    width:  200px;
+    background-color: blue;
+}
+.third{
+    height: 200px;
+    width:  200px;
+    background-color: yellow;
+}
