@@ -31,6 +31,7 @@ h1{
     background-color: red;
     position: relative;
     left: 400px;
+    
 }
 .second{
     height: 200px;
@@ -38,6 +39,7 @@ h1{
     background-color: blue;
     position: relative;
     bottom: 200px;
+    
 }
 .third{
     height: 200px;
@@ -46,4 +48,23 @@ h1{
     position: relative;
     left: 200px;
     bottom: 400px;
+    
+}
+.first1{
+    height: 200px;
+    width:  200px;
+    background-color: red;
+    display: inline-block;
+}
+.second2{
+    height: 200px;
+    width:  200px;
+    background-color: blue;
+    display: inline-block;
+}
+.third3{
+    height: 200px;
+    width:  200px;
+    background-color: yellow;
+    display: inline-block;
 }
